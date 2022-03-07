@@ -129,6 +129,9 @@ input.error-red {
     padding-right: 40px;
     font-size: 14px;
 }
+.nav-links li:hover {
+    text-decoration: underline;
+}
 .white-section .content-bg-image {
     background: url(./images/illustration-1.svg) no-repeat left center / contain;
 }
